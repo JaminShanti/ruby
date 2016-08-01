@@ -1,6 +1,6 @@
 require 'erb'
 require 'json'
-require 'Date'
+require 'date'
 require 'rest-client'
 require 'mail'
 
