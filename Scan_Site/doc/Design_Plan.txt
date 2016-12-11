@@ -1,0 +1,7 @@
+1. SiteURL arguemnts keyword
+2. For each identified site
+      a. GeoLocation (mailing address to Lat/Log)
+      b. Website address
+      c. Line(s) on WebSite containing keyword
+3. For each identified window.addEvent
+4. Generate HTML.
