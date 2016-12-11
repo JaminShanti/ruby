@@ -34,3 +34,5 @@ TODO: Write license
 ]]></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
+
+https://learnrubythehardway.org/book/ex46.html
