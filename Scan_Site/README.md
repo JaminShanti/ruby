@@ -1,16 +1,31 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+# Scan Site
 
-TODO: Write a project description
+This project is a Ruby gem skeleton created for scanning sites. It provides a basic structure for building a Ruby gem, including directories for library code, tests, and documentation.
+
+## Structure
+
+- `bin/`: Executable scripts
+- `lib/`: Library code
+- `tests/`: Unit tests
+- `doc/`: Documentation
+- `data/`: Data files
+- `examples/`: Example usage
 
 ## Installation
 
-TODO: Describe the installation process
+To install the gem, run:
+
+```bash
+gem install NAME
+```
 
 ## Usage
 
-TODO: Write usage instructions
+To use the gem in your project, require it:
+
+```ruby
+require 'NAME'
+```
 
 ## Contributing
 
@@ -20,19 +35,6 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
-## Credits
-
-TODO: Write credits
-
 ## License
 
-TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
-
-https://learnrubythehardway.org/book/ex46.html
+MIT
